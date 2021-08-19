@@ -50,7 +50,7 @@ public class ProdutoResource {
         } else {
             preco = produto.getPreco();
         }
-        produto_atualizado.setNome(nome);
+        produto_atualizado.setPreco(preco);
 
 
         return produto_atualizado;
