@@ -2,4 +2,5 @@
 
 ## Nome dos alunos
 - Ricardo Taverna
+- Vinícius Joay
 - Ygor Stengrat
